@@ -1,4 +1,4 @@
-public class Main{
+public class Main{		//updated
 	private String name;	//name
 	private String firstUser;
 }
